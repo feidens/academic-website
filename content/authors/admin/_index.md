@@ -29,10 +29,10 @@ education:
   courses:
   - course: MSc computer science
     institution: Paderborn University
-    year: 2009
+    year: 2015
   - course: BSc computer science
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Paderborn University
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
