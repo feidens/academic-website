@@ -1,10 +1,10 @@
 ---
-title: Crypto Java Library
-summary: We currently develop a cryptography Java library that is primarily used for prototyping and evaluation of schemes from research papers
+title: cryptimeleon - crypto Java library
+summary: It is primarily used for prototyping and evaluation of schemes from research papers
 tags:
 - crypto
 - java
-date: "2020-08-01T00:00:00Z"
+date: "2021-07-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 #external_link: "https://github.com/upbcuk"
@@ -17,7 +17,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/upbcrypto
+  url: https://twitter.com/cryptimeleon
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -31,5 +31,6 @@ url_video: ""
 # slides: example
 ---
 
-We currently develop a cryptography Java library that is primarily used for prototyping and evaluation of schemes from research papers.
-We are looking for contributions (e.g. adding additional schemes), so feel free to follow the project on [github](https://github.com/upbcuk) and contact us.
+We currently develop cryptimeleon a Java library that is primarily aimed at prototyping and evaluation of privacy-preserving cryptography from research papers.
+For a getting to know cryptimeleon and a 5 minute tutorial go to [cryptimeleon.org](https://cryptimeleon.org).
+We are also looking for contributions (e.g. adding additional schemes), so feel free to follow the project on [github](https://github.com/cryptimeleon) and contact us.
