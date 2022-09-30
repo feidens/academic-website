@@ -3,11 +3,14 @@ title: "Privacy-Preserving Incentive Systems with Highly Efficient Point-Collect
 date: 2020-01-01
 publishDate: 2020-08-04T11:33:47.494337Z
 authors: ["Jan Bobolz", "Fabian Eidens", "Stephan Krenn", "Daniel Slamanig", "Christoph Striecks"]
-publication_types: ["4"]
+publication_types: ["1"]
 abstract: "Incentive systems (such as customer loyalty systems) are omnipresent nowadays and deployed in several areas such as retail, travel, and financial services. Despite the benefits for customers and companies, this involves large amounts of sensitive data being transferred and analyzed. These concerns initiated research on privacy-preserving incentive systems, where users register with a provider and are then able to privately earn and spend incentive points.    In this paper we construct an incentive system that improves upon the state-of-the-art in several ways: – We improve efficiency of the Earn protocol by replacing costly zero-knowledge proofs with a short structure-preserving signature on equivalence classes. – We enable tracing of remainder tokens from double-spending transactions without losing backward unlinkability. – We allow for secure recovery of failed Spend protocol runs (where usually, any retries would be counted as double-spending attempts). – We guarantee that corrupt users cannot falsely blame other corrupt users for their double-spending.  We propose an extended formal model of incentive systems and a concrete instantiation using homomorphic Pedersen commitments, ElGamal encryption, structure-preserving signatures on equivalence classes (SPS-EQ), and zero-knowledge proofs of knowledge. We formally prove our construction secure and present benchmarks showing its practical efficiency."
 featured: true
 publication: "Proceedings of the 15th ACM ASIA Conference on Computer and Communication
 Security (ASIA CCS 2020)"
 tags: ["Privacy", "cryptographic protocols", "Incentive systems", "Provable security"]
-url_pdf: "http://eprint.iacr.org/2020/382.pdf"
+doi: "10.1145/3320269.3384769"
+links:
+- name: PDF
+  url: http://eprint.iacr.org/2020/382.pdf
 ---

@@ -9,5 +9,7 @@ featured: false
 publication: "*Cryptology and Network Security*"
 tags: ["Attribute-based signatures", "Privacy", "Universal composability"]
 doi: "10.1007/978-3-030-00434-7_12"
-url_pdf: "https://eprint.iacr.org/2018/874.pdf"
+links:
+- name: PDF
+  url: https://eprint.iacr.org/2018/874.pdf
 ---
