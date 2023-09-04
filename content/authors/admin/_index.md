@@ -10,10 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student at Paderborn University, working on privacy-preserving cryptography
+role: Technology Manager at Utimaco GmbH, working on cryptography
 
 # Organizations/Affiliations
 organizations:
+- name: Utimaco GmbH 
+  url: "https://utimaco.com"
 - name: Paderborn University
   url: "https://cs.uni-paderborn.de/cuk/personal/fabian-eidens/"
 
@@ -27,6 +29,9 @@ bio: My research interests include privacy-preserving, and attribute-based crypt
 
 education:
   courses:
+  - course: Phd cryptography - Privacy-Preserving Cryptography Attribute-Based Signatures and Updatable Credentials
+    institution: Paderborn University
+    year: 2023
   - course: MSc computer science
     institution: Paderborn University
     year: 2015
@@ -69,4 +74,4 @@ user_groups:
 
 # Text can follow like a small cv summary
 ---
-My research interests include privacy-preserving, and attribute-based cryptography. I am currently a PhD student at Paderborn University.
+My research interests include privacy-preserving, and attribute-based cryptography. I am currently technology manager at Utimaco GmbH where my responsibilities range from innovation, research, and security to cryptography for the next generation of hardware security modules. Before that I finished my PhD at the Paderborn University at the end of 2022. I was a member of the Codes and Cryptography Group of Prof. Dr. Johannes Blömer and my research focus is privacy-preserving cryptography in the area of digital signatures and attribute-based authentication schemes.
