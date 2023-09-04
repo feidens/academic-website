@@ -17,7 +17,7 @@ organizations:
 - name: Utimaco GmbH 
   url: "https://utimaco.com"
 - name: Paderborn University
-  url: "https://cs.uni-paderborn.de/cuk/personal/fabian-eidens/"
+  url: "https://cs.uni-paderborn.de/en/cuk/team/former-employees/fabian-eidens"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include privacy-preserving, and attribute-based cryptography
